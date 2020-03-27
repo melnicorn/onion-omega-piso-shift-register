@@ -31,7 +31,7 @@ For now, just grab [pisoDriver.py](pisoDriver.py) and go to town!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details **except** [MM74HC165 datasheet](MM74HC165.pdf) which maintains original copyright.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details **except** [MM74HC165 datasheet](MM74HC165.pdf) which maintains original copyright.
 
 ## Acknowledgments
 
