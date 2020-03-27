@@ -14,7 +14,7 @@ BUTTON_8 = 0x0040
 
 class TestPISO:
     def __init__(self):
-        self.__piso = pisoDriver.PISO(0, 1, 2, 3)
+        self.__piso = pisoDriver.PISO(2, 1, 3, 0)
         self.__running = False
 
     def loop(self):
