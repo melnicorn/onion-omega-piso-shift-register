@@ -31,8 +31,9 @@ For now, just grab [pisoDriver.py](pisoDriver.py) and go to town!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details **except** [MM74HC165 datasheet](MM74HC165.pdf) which maintains original copyright.
 
 ## Acknowledgments
 
 * [Arduino Playground](https://playground.arduino.cc/Code/ShiftRegSN74HC165N/) PISO tutorial and C code
+* [MM74HC165](MM74HC165.pdf) Fairchild 74HC165 data sheet
